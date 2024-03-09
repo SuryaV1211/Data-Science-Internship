@@ -6,4 +6,4 @@ This repository contains two projects:
      
   2. Dogs vs Cats - trains on a large dataset of multiple images of cats and dogs, which is taken from kaggle. Instead of              manually downloading the whole dataset, we link the dataset to our program. Afterwhich, we input a image for the program
       predict if the given image is a cat or a dog.
-     (Files required - Dogs_vs_Cats.ipynb || kaggle.json || cat.jpg )
+     (Files required - Dogs_vs_Cats.ipynb || kaggle.json _which is not provided, since it contains a private key_ || cat.jpg )
